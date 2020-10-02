@@ -1,10 +1,11 @@
+# Importing libraries
 from tkinter import *
 from tkinter.scrolledtext import ScrolledText
 from tkinter import messagebox
 import sklearn
-
 from pandas import Series
 import pickle
+
 #this is not important
 
 filename = 'finalmodeldata.sav'
